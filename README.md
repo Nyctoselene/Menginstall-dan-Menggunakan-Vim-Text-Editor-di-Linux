@@ -26,7 +26,7 @@ Namun, kita tidak akan membuka `vim` dengan dokumen kosong. Kita akan membuat do
 ```
 echo "Ini merupakan file baru. Ini line kedua dan ini line ketiga. Beberapa teks disini. Kita akan mengeditnya menggunakan vim. Ini akan sangat menyenangkan." >> baru
 ```
-Sekarang kita akan bkua file yang sudah dibuat menggunakan vim.
+Sekarang kita akan buka file yang sudah dibuat menggunakan vim.
 ```
 vim baru
 ```
@@ -62,7 +62,7 @@ Untuk memasukkan teks, vim harus beralih ke Insert mode. Insert mode mirip denga
 •  `i` - Memasuki Insert mode pada posisi kursor saat ini\
 •  `a` - Memasuki Insert mode setelah posisi saat ini\
 •  `I` - Memasuki Insert mode pada awal dari line saat ini\
-•  `A` - Memasuki Insert mode pada akhir dari line saat ini\
+•  `A` - Memasuki Insert mode pada akhir dari line saat ini
 
 Perubahan mode ke Insert mode ditandai dengan `-- INSERT --` pada bagian ujung kiri paling bawah.
 
